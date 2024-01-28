@@ -105,8 +105,5 @@ $(function () {
     updateTimeBlocks();
   }, 60000);
   
-  // Clear the interval when the page is unloaded
-  $(window).on('unload', function() {
-    clearInterval(updateInterval);
-  });
+
 });
