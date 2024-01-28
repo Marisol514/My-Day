@@ -3,7 +3,7 @@ $(function () {
   function generateTimeBlocks() {
     var container = $('#timeBlocks');
 
-    var hoursToDisplay = [9, 10, 11, 12, 13, 14, 15, 16, 17];
+    var hoursToDisplay = [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, ];
 
     for (var i = 0; i < hoursToDisplay.length; i++) {
       var hour = hoursToDisplay[i];
