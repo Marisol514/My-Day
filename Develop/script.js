@@ -1,24 +1,39 @@
 $(function () {
   // Function to generate time blocks for specific hours
   function generateTimeBlocks() {
+    //select the container element with the id "timeBlocks"
     var container = $('#timeBlocks');
 
+    //Array of hours to display in the time blocks starting at 9am to 5 pm.
     var hoursToDisplay = [9, 10, 11, 12, 13, 14, 15, 16, 17,];
 
+    //loop trough each hour in nthe array
     for (var i = 0; i < hoursToDisplay.length; i++) {
+      //get the current hour
       var hour = hoursToDisplay[i];
+      //determine AM or PM based on the current hour
       var ampm = hour >= 12 ? 'PM' : 'AM';
+      //format the hour for display in 12-hour format
       var displayHour = hour > 12 ? hour - 12 : hour;
 
+      //create a div element for the hour label with appropiate classes 'row' and 'time-block'
       var timeBlock = $('<div>').addClass('row time-block');
+      //creates a div element for the hours label with appropiate classes and text content
       var hourLabel = $('<div>').addClass('col-2 col-md-1 hour text-center py-3').text(displayHour + ampm);
+      //create a textarea element with appropiate classes and set number of rows to 3
       var textarea = $('<textarea>').addClass('col-8 col-md-10 description').attr('rows', 3);
+      //create a button element for saving with appropiate classes and 'aria-label'
       var saveBtn = $('<button>').addClass('btn saveBtn col-2 col-md-1').attr('aria-label', 'save');
+      //create an icon element for the save buttion using Font Awesome classes
       var saveIcon = $('<i>').addClass('fas fa-save').attr('aria-hidden', 'true');
 
+      //Append the save icon tot he save buttion
       saveBtn.append(saveIcon);
+      //set the 'id' attribute of the time block to "hour-" followed by the current hour
       timeBlock.attr('id', 'hour-' + hour);
+      //append the hour label, textera, and save buttion to the time block
       timeBlock.append(hourLabel, textarea, saveBtn);
+      //append the entire time block to the container
       container.append(timeBlock);
     }
   }
