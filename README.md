@@ -38,3 +38,22 @@ GitHub Link: https://github.com/Marisol514/My-Day
 Deployed Link: 
 
 ## Resources:
+
+Bootstrap versions: https://getbootstrap.com/docs/5.1/getting-started/introduction/#quick-start
+
+Font Awesome: https://fontawesome.com/docs/web/setup/get-started 
+
+jQuery: https://api.jquery.com/
+ 
+Google Font - Fira Sans: https://fonts.google.com/selection/embed
+
+Document Object Model (DOM): https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
+JavaScript HTML DOM: https://www.w3schools.com/js/js_htmldom.asp 
+
+Event: https://developer.mozilla.org/en-US/docs/Web/Events
+       https://developer.mozilla.org/en-US/docs/Web/API/Event 
+
+
+
+
