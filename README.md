@@ -35,6 +35,7 @@ THEN the saved events persist
 ## Review Links
 
 GitHub Link: https://github.com/Marisol514/My-Day
+
 Deployed Link: 
 
 ## Resources:
@@ -44,6 +45,16 @@ Bootstrap versions: https://getbootstrap.com/docs/5.1/getting-started/introducti
 Font Awesome: https://fontawesome.com/docs/web/setup/get-started 
 
 jQuery: https://api.jquery.com/
+
+jQuery Selector: https://api.jquery.com/jquery/#jQuery-selector-context
+
+jQuery Element Selector: https://learn.jquery.com/using-jquery-core/selecting-elements/
+
+jQuery Selectors: https://api.jquery.com/category/selectors/
+
+JQuert Array: https://api.jquery.com/Types/#Array
+
+jQuery Adding a div: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Safely_inserting_external_content_into_a_page
  
 Google Font - Fira Sans: https://fonts.google.com/selection/embed
 
@@ -52,8 +63,26 @@ Document Object Model (DOM): https://developer.mozilla.org/en-US/docs/Web/API/Do
 JavaScript HTML DOM: https://www.w3schools.com/js/js_htmldom.asp 
 
 Event: https://developer.mozilla.org/en-US/docs/Web/Events
+
        https://developer.mozilla.org/en-US/docs/Web/API/Event 
 
+Day.js hour: https://day.js.org/docs/en/display/format
+
+Day.js format to AM PM: https://day.js.org/docs/en/installation/typescript#have-trouble-importing-dayjs 
+
+Day.js String+Format: https://day.js.org/docs/en/parse/string-format
+
+JavaScript 'fuction': https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
+
+JavaScript 'fuction Binding' Option: https://developer.mozilla.org/en-US/docs/Glossary/Binding
+
+JavaScript 'var' as Binding Option: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
+
+JavaScript 'array': https://developer.mozilla.org/en-US/docs/Glossary/Array
+
+JavaScript 'for' Loop: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_for-in_initializer
+
+JavaScritp 'for in': https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
 
 
 
