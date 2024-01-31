@@ -36,7 +36,8 @@ THEN the saved events persist
 
 GitHub Link: https://github.com/Marisol514/My-Day
 
-Deployed Link: 
+Deployed Link: https://marisol514.github.io/My-Day/ 
+
 
 ## Resources:
 
