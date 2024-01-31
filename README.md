@@ -72,6 +72,8 @@ Day.js format to AM PM: https://day.js.org/docs/en/installation/typescript#have-
 
 Day.js String+Format: https://day.js.org/docs/en/parse/string-format
 
+Day.js 'this'': chttps://www.geeksforgeeks.org/difference-between-this-and-this-in-jquery/ 
+
 JavaScript 'fuction': https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function
 
 JavaScript 'fuction Binding' Option: https://developer.mozilla.org/en-US/docs/Glossary/Binding
@@ -82,7 +84,22 @@ JavaScript 'array': https://developer.mozilla.org/en-US/docs/Glossary/Array
 
 JavaScript 'for' Loop: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Invalid_for-in_initializer
 
-JavaScritp 'for in': https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+JavaScritpt 'for in': https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+
+JavaScript 'date': https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
+
+JavaScript 'parseInt(): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+
+JavaScript Class manipulation: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+
+JavaScript Set Interval: https://developer.mozilla.org/en-US/docs/Web/API/setInterval
+
+Time BLock Applications: https://todoist.com/productivity-methods/time-blocking
+
+Time Blocking: https://www.youtube.com/watch?v=arbu_mw3qXM
+
+Examples of updateTimeBlocks implementation: https://gist.github.com/index
+
 
 
 
